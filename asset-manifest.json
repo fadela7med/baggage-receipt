@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/baggage-receipt/static/css/main.db0fab3d.css",
-    "main.js": "/baggage-receipt/static/js/main.47e10b31.js",
-    "static/js/453.8ab44547.chunk.js": "/baggage-receipt/static/js/453.8ab44547.chunk.js",
+    "main.js": "/baggage-receipt/static/js/main.fd617573.js",
+    "static/js/952.c730f37f.chunk.js": "/baggage-receipt/static/js/952.c730f37f.chunk.js",
+    "static/js/453.d855a71b.chunk.js": "/baggage-receipt/static/js/453.d855a71b.chunk.js",
     "index.html": "/baggage-receipt/index.html",
     "main.db0fab3d.css.map": "/baggage-receipt/static/css/main.db0fab3d.css.map",
-    "main.47e10b31.js.map": "/baggage-receipt/static/js/main.47e10b31.js.map",
-    "453.8ab44547.chunk.js.map": "/baggage-receipt/static/js/453.8ab44547.chunk.js.map"
+    "main.fd617573.js.map": "/baggage-receipt/static/js/main.fd617573.js.map",
+    "952.c730f37f.chunk.js.map": "/baggage-receipt/static/js/952.c730f37f.chunk.js.map",
+    "453.d855a71b.chunk.js.map": "/baggage-receipt/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db0fab3d.css",
-    "static/js/main.47e10b31.js"
+    "static/js/main.fd617573.js"
   ]
 }
